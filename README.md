@@ -28,13 +28,15 @@ Employee-Directory/
 
  How to Use
 
-1. Clone or download this repository
-git clone https://github.com/yourusername/employee-directory.git
-2. Open the index.html file in your browser.
+1. Clone link:
+" https://github.com/abina506/Employeee-Directory-With-Search "
+2.Deployment link:
+" http://127.0.0.1:5500/index.html"
+3. Open the index.html file in your browser.
 
-3. Enter employee details (Name, Email, Position) and click Add.
+4. Enter employee details (Name, Email, Position) and click Add.
 
-4. View, manage, or delete employees as needed.
+5. View, manage, or delete employees as needed.
 
  Future Enhancements
 
